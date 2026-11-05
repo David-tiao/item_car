@@ -1,0 +1,84 @@
+[INFO] [1793768025.118843333] [slam_gmapping]: Laser is mounted upwards.
+ -maxUrange 7.99 -maxUrange 7.99 -sigma     0.05 -kernelSize 1 -lstep 0.05 -lobsGain 3 -astep 0.05
+ -srr 0.1 -srt 0.2 -str 0.1 -stt 0.2
+ -linearUpdate 1 -angularUpdate 0.5 -resampleThreshold 0.5
+ -xmin -10 -xmax 10 -ymin -10 -ymax 10 -delta 0.05 -particles 30
+[INFO] [1793768025.119959969] [slam_gmapping]: Initialization complete
+update frame 0
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 0
+Registering First Scan
+update frame 7
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 1
+Average Scan Matching Score=288.554
+neff= 30
+Registering Scans:Done
+update frame 19
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 2
+Average Scan Matching Score=311.293
+neff= 30
+Registering Scans:Done
+update frame 31
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 3
+Average Scan Matching Score=314.82
+neff= 30
+Registering Scans:Done
+update frame 43
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 4
+Average Scan Matching Score=294.276
+neff= 30
+Registering Scans:Done
+update frame 55
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 5
+Average Scan Matching Score=306.147
+neff= 30
+Registering Scans:Done
+update frame 67
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 6
+Average Scan Matching Score=42.111
+neff= 30
+Registering Scans:Done
+update frame 79
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 7
+Average Scan Matching Score=40.8964
+neff= 30
+Registering Scans:Done
+update frame 91
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 8
+Average Scan Matching Score=80.3409
+neff= 30
+Registering Scans:Done
+update frame 103
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 9
+Average Scan Matching Score=185.108
+neff= 30
+Registering Scans:Done
+update frame 115
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 10
+Average Scan Matching Score=232.475
+neff= 30
+Registering Scans:Done
+[INFO] [1793768044.498716366] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+virtual GMapping::GridSlamProcessor::~GridSlamProcessor(): Start
+virtual GMapping::GridSlamProcessor::~GridSlamProcessor(): Deleting tree

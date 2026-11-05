@@ -1,0 +1,1 @@
+/home/tao/Desktop/ydlidar_ws/build_x3/slam_gmapping/ament_cmake_environment_hooks/local_setup.sh

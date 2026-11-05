@@ -1,0 +1,7 @@
+[INFO] [1793799352.838221607] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793799352.838552714] [global_costmap.global_costmap]: Creating Costmap
+terminate called after throwing an instance of 'rclcpp::exceptions::InvalidParameterValueException'
+  what():  parameter_value_from failed for parameter 'plugins': No parameter value set

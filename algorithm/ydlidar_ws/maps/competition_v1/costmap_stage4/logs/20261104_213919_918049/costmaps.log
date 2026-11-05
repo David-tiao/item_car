@@ -1,0 +1,52 @@
+[INFO] [1793799577.099863160] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793799577.100161881] [global_costmap.global_costmap]: Creating Costmap
+[INFO] [1793799577.102997765] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793799577.103173744] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1793799580.782170385] [global_costmap.global_costmap]: Configuring
+[INFO] [1793799580.787426986] [global_costmap.global_costmap]: Using plugin "static_layer"
+[INFO] [1793799580.794032521] [global_costmap.global_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1793799580.795300298] [global_costmap.global_costmap]: Initialized plugin "static_layer"
+[INFO] [1793799580.795352587] [global_costmap.global_costmap]: Using costmap filter "keepout_filter"
+[INFO] [1793799580.798635631] [global_costmap.global_costmap]: Initialized costmap filter "keepout_filter"
+[INFO] [1793799580.798676347] [global_costmap.global_costmap]: Using costmap filter "keepout_inflation"
+[INFO] [1793799580.799287531] [global_costmap.global_costmap]: Initialized costmap filter "keepout_inflation"
+[ERROR] [1793799580.805071819] [global_costmap.global_costmap]: The configured inflation radius (0.100) is smaller than the computed inscribed radius (0.157) of your footprint, it is highly recommended to set inflation radius to be at least as big as the inscribed radius to avoid collisions
+[INFO] [1793799580.807158485] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 280 X 280 at 0.010000 m/pix
+[INFO] [1793799587.681113249] [global_costmap.global_costmap]: Activating
+[INFO] [1793799587.681241280] [global_costmap.global_costmap]: Checking transform
+[INFO] [1793799587.681406413] [global_costmap.global_costmap]: start
+[INFO] [1793799587.681429503] [global_costmap.global_costmap]: KeepoutFilter: Subscribing to "/costmap_filter_info" topic for filter info...
+[WARN] [1793799588.182716233] [global_costmap.global_costmap]: KeepoutFilter: Filter mask was not received
+[INFO] [1793799588.233422885] [global_costmap.global_costmap]: KeepoutFilter: Received filter info from /costmap_filter_info topic.
+[INFO] [1793799588.233600570] [global_costmap.global_costmap]: KeepoutFilter: Subscribing to "/keepout_filter_mask" topic for filter mask...
+[INFO] [1793799588.245571467] [global_costmap.global_costmap]: KeepoutFilter: Received filter mask from /keepout_filter_mask topic.
+[INFO] [1793799592.706498844] [local_costmap.local_costmap]: Configuring
+[INFO] [1793799592.707703563] [local_costmap.local_costmap]: Using plugin "static_layer"
+[INFO] [1793799592.707879395] [local_costmap.local_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1793799592.708052663] [local_costmap.local_costmap]: Initialized plugin "static_layer"
+[INFO] [1793799592.708066849] [local_costmap.local_costmap]: Using costmap filter "keepout_filter"
+[INFO] [1793799592.708411132] [local_costmap.local_costmap]: Initialized costmap filter "keepout_filter"
+[INFO] [1793799592.708427664] [local_costmap.local_costmap]: Using costmap filter "keepout_inflation"
+[INFO] [1793799592.708654963] [local_costmap.local_costmap]: Initialized costmap filter "keepout_inflation"
+[ERROR] [1793799592.710067654] [local_costmap.local_costmap]: The configured inflation radius (0.100) is smaller than the computed inscribed radius (0.157) of your footprint, it is highly recommended to set inflation radius to be at least as big as the inscribed radius to avoid collisions
+[INFO] [1793799592.718480277] [local_costmap.local_costmap]: StaticLayer: Resizing static layer to 280 X 280 at 0.010000 m/pix
+[INFO] [1793799594.565792946] [local_costmap.local_costmap]: Activating
+[INFO] [1793799594.565828267] [local_costmap.local_costmap]: Checking transform
+[INFO] [1793799594.565885059] [local_costmap.local_costmap]: start
+[INFO] [1793799594.565890958] [local_costmap.local_costmap]: KeepoutFilter: Subscribing to "/costmap_filter_info" topic for filter info...
+[WARN] [1793799595.068832295] [local_costmap.local_costmap]: KeepoutFilter: Filter mask was not received
+[INFO] [1793799595.116829902] [local_costmap.local_costmap]: KeepoutFilter: Received filter info from /costmap_filter_info topic.
+[INFO] [1793799595.116920045] [local_costmap.local_costmap]: KeepoutFilter: Subscribing to "/keepout_filter_mask" topic for filter mask...
+[INFO] [1793799595.128480694] [local_costmap.local_costmap]: KeepoutFilter: Received filter mask from /keepout_filter_mask topic.
+[INFO] [1793799872.425312677] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+Warning: class_loader.ClassLoader: SEVERE WARNING!!! Attempting to unload library while objects created by this loader exist in the heap! You should delete your objects before attempting to unload the library or destroying the ClassLoader. The library will NOT be unloaded.
+         at line 127 in ./src/class_loader.cpp
+Warning: class_loader.ClassLoader: SEVERE WARNING!!! Attempting to unload library while objects created by this loader exist in the heap! You should delete your objects before attempting to unload the library or destroying the ClassLoader. The library will NOT be unloaded.
+         at line 127 in ./src/class_loader.cpp
+terminate called without an active exception

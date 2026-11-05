@@ -1,0 +1,20 @@
+[INFO] [1793793886.965500134] [competition_static_map_server]: 
+	competition_static_map_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793793886.965573549] [competition_static_map_server]: Creating
+[INFO] [1793793889.622021068] [competition_static_map_server]: Configuring
+[INFO] [1793793889.622087673] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_rules_preview.yaml
+[INFO] [1793793889.622258335] [map_io]: resolution: 0.01
+[INFO] [1793793889.622263171] [map_io]: origin[0]: -0.2
+[INFO] [1793793889.622265929] [map_io]: origin[1]: -0.2
+[INFO] [1793793889.622268728] [map_io]: origin[2]: 0
+[INFO] [1793793889.622271474] [map_io]: free_thresh: 0.196
+[INFO] [1793793889.622274190] [map_io]: occupied_thresh: 0.65
+[INFO] [1793793889.622277186] [map_io]: mode: trinary
+[INFO] [1793793889.622280806] [map_io]: negate: 0
+[INFO] [1793793889.622522777] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_rules_preview.pgm
+[INFO] [1793793889.627313959] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_rules_preview.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793793891.508610213] [competition_static_map_server]: Activating
+[INFO] [1793793891.508751916] [competition_static_map_server]: Creating bond (competition_static_map_server) to lifecycle manager.
+Magick: quitting due to signal 1 (SIGHUP) "Hangup"...

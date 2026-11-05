@@ -1,0 +1,114 @@
+{
+  "unit": "m",
+  "frame": "map",
+  "origin_at_field_southwest": [
+    0.0,
+    0.0
+  ],
+  "field_size": [
+    2.4,
+    2.4
+  ],
+  "resolution": 0.01,
+  "map_file_origin": [
+    -0.2,
+    -0.2,
+    0.0
+  ],
+  "source": "item.pdf page 3 figure 1 + table 2; field positions inferred from diagram",
+  "confirmed_dimensions": {
+    "cross_lane_width": 0.4,
+    "yellow_side": 0.45,
+    "start_side": 0.3,
+    "workstation_length": 0.58,
+    "workstation_width": 0.15,
+    "black_cylinder_diameter": 0.05,
+    "black_cylinder_height": 0.1
+  },
+  "yellow_keepout_zones": [
+    {
+      "id": "yellow_SW",
+      "x0": 0.55,
+      "y0": 0.55,
+      "x1": 1.0,
+      "y1": 1.0
+    },
+    {
+      "id": "yellow_SE",
+      "x0": 1.4,
+      "y0": 0.55,
+      "x1": 1.85,
+      "y1": 1.0
+    },
+    {
+      "id": "yellow_NW",
+      "x0": 0.55,
+      "y0": 1.4,
+      "x1": 1.0,
+      "y1": 1.85
+    },
+    {
+      "id": "yellow_NE",
+      "x0": 1.4,
+      "y0": 1.4,
+      "x1": 1.85,
+      "y1": 1.85
+    }
+  ],
+  "workstation_keepout_zones": [
+    {
+      "id": "storage_white",
+      "x0": 0.0,
+      "y0": 0.91,
+      "x1": 0.15,
+      "y1": 1.49
+    },
+    {
+      "id": "rough_work_white",
+      "x0": 0.91,
+      "y0": 0.0,
+      "x1": 1.49,
+      "y1": 0.15
+    }
+  ],
+  "start_zones": [
+    {
+      "id": "start_NE",
+      "x0": 2.1,
+      "y0": 2.1,
+      "x1": 2.4,
+      "y1": 2.4
+    },
+    {
+      "id": "start_SE",
+      "x0": 2.1,
+      "y0": 0.0,
+      "x1": 2.4,
+      "y1": 0.3
+    }
+  ],
+  "qr_board": {
+    "position": "random within specified limits; no fixed map pose",
+    "size_qr_m": [
+      0.08,
+      0.08
+    ]
+  },
+  "material_turntable": {
+    "position": "varies; indicative near north edge",
+    "diameter_m": 0.3
+  },
+  "random_black_obstacles": "Not included in static map; detected online",
+  "blocked_cells_meaning": "non-driving areas, NOT necessarily physical walls for LiDAR matching",
+  "critical": "dimensions/coordinates inferred from drawing must be calibrated on actual field",
+  "pixel_counts": {
+    "competition_navigation_map": {
+      "blocked_pixels": 30640,
+      "free_pixels": 47760
+    },
+    "competition_keepout_mask": {
+      "blocked_pixels": 30640,
+      "free_pixels": 47760
+    }
+  }
+}

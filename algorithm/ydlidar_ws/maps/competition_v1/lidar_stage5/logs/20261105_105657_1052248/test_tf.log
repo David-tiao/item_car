@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/costmap_stage4/test_pose_tf.py", line 10, in <module>
+    br=StaticTransformBroadcaster(node)
+  File "/opt/ros/humble/lib/python3.10/site-packages/tf2_ros/static_transform_broadcaster.py", line 62, in __init__
+    self.pub_tf = node.create_publisher(TFMessage, "/tf_static", qos)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/node.py", line 1299, in create_publisher
+    publisher_object = _rclpy.Publisher(
+rclpy._rclpy_pybind11.RCLError: Failed to create publisher: rcl node's context is invalid, at ./src/rcl/node.c:428

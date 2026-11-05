@@ -1,0 +1,18 @@
+# 以后合并到 Nav2 完整 nav2_params.yaml 的 global/local costmap 配置中。
+# 这是合并片段，不是独立可启动的 Nav2 参数文件，不要直接替换现有完整 nav2_params.yaml。
+global_costmap:
+  global_costmap:
+    ros__parameters:
+      filters: [keepout_filter]
+      keepout_filter:
+        plugin: nav2_costmap_2d::KeepoutFilter
+        enabled: true
+        filter_info_topic: /costmap_filter_info
+local_costmap:
+  local_costmap:
+    ros__parameters:
+      filters: [keepout_filter]
+      keepout_filter:
+        plugin: nav2_costmap_2d::KeepoutFilter
+        enabled: true
+        filter_info_topic: /costmap_filter_info

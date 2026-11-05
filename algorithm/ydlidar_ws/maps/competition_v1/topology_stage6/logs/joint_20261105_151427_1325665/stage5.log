@@ -1,0 +1,46 @@
+/scan 正常：frame=laser_frame 点数=650 有效点=398
+Transitioning successful
+Transitioning successful
+/competition_s5_main_map -> active [3]
+Transitioning successful
+Transitioning successful
+/competition_s5_mask -> active [3]
+Transitioning successful
+Transitioning successful
+/competition_s5_info -> active [3]
+/map: 发布者 1 个，接收消息 = True
+/keepout_filter_mask: 发布者 1 个，接收消息 = True
+/costmap_filter_info: 发布者 1 个，接收消息 = True
+  中心车道: 占据值=0, 预期=0
+  左下黄色区: 占据值=100, 预期=100
+  蓝色启停区: 占据值=0, 预期=0
+  场地外部: 占据值=100, 预期=100
+Keepout 信息 type=0，mask_topic=/keepout_filter_mask
+通过：静态地图 + Nav2 Keepout 数据服务链路
+Transitioning successful
+Transitioning successful
+/global_costmap/global_costmap -> active [3]
+Transitioning successful
+Transitioning successful
+/local_costmap/local_costmap -> active [3]
+/map: 发布者=1, 收到数据=True
+/keepout_filter_mask: 发布者=1, 收到数据=True
+/global_costmap/costmap: 发布者=1, 收到数据=True
+/local_costmap/costmap: 发布者=1, 收到数据=True
+global_costmap: 禁行黄色=100, 中心=0, 蓝区=0, 场外=100
+local_costmap: 禁行黄色=100, 中心=0, 蓝区=0, 场外=100
+✅ 第四阶段通过：原始物理地图黄区自由，但两张真正的 Nav2 Costmap 均将其变成禁行。
+全局 Costmap 已订阅 /scan
+局部 Costmap 已订阅 /scan
+map -> laser_frame TF 正常
+第五阶段接口联调通过
+---------------------------------------------------------
+已打通：静态地图 + Keepout + X3 ObstacleLayer
+全局代价图：/global_costmap/costmap
+局部代价图：/local_costmap/costmap
+固定测试 TF：base_link=(1.20,1.20)，禁止移动雷达！
+不发布 /cmd_vel；不连接 STM32，不能用于实际导航。
+关闭 RViz2 后清理本次启动的所有节点。
+完整日志：/home/tao/Desktop/ydlidar_ws/maps/competition_v1/lidar_stage5/logs/20261105_151429_1325686
+---------------------------------------------------------
+阶段5本次进程已清理。日志：/home/tao/Desktop/ydlidar_ws/maps/competition_v1/lidar_stage5/logs/20261105_151429_1325686

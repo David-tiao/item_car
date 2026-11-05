@@ -1,0 +1,15 @@
+[WARN] [1793859197.101809437] [competition_stage4_TEST_POSE_not_for_driving]: TEST TF ONLY: base_link 固定(1.20,1.20)，未接入真实里程计，严禁驱动小车
+Traceback (most recent call last):
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/costmap_stage4/test_pose_tf.py", line 24, in <module>
+    rclpy.spin(node)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/__init__.py", line 229, in spin
+    executor.spin_once()
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 808, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 797, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 780, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 681, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

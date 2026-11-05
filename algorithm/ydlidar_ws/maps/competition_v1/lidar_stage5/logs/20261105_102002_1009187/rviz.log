@@ -1,0 +1,13 @@
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+[INFO] [1793845248.175528335] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1793845248.175621133] [rviz2]: OpenGl version: 4.6 (GLSL 4.6)
+[INFO] [1793845248.189986446] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1793845249.158799868] [rviz2]: Trying to create a map of size 280 x 280 using 1 swatches
+[ERROR] [1793845249.208847291] [rviz2]: Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : 
+active samplers with a different type refer to the same texture image unit
+[INFO] [1793845250.108792826] [rviz2]: Trying to create a map of size 280 x 280 using 1 swatches
+[INFO] [1793845366.159238911] [rviz2]: Trying to create a map of size 300 x 300 using 1 swatches
+[INFO] [1793845367.358892557] [rviz2]: Trying to create a map of size 300 x 300 using 1 swatches
+[INFO] [1793845376.609754968] [rviz2]: Trying to create a map of size 280 x 280 using 1 swatches
+[INFO] [1793845377.959893038] [rviz2]: Trying to create a map of size 280 x 280 using 1 swatches
+[INFO] [1793845379.009775246] [rviz2]: Trying to create a map of size 280 x 280 using 1 swatches

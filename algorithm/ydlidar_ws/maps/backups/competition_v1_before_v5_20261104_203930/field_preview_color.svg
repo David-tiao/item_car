@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<rect x="0" y="0" width="800" height="800" fill="#f7f7f7"/>
+<rect x="60.0" y="60.0" width="680.0" height="680.0" fill="#d9d9d9" stroke="#222" stroke-width="3" opacity="1.0"/>
+<rect x="215.8" y="456.7" width="127.5" height="127.5" fill="#f3ea8a" stroke="#666" stroke-width="1.5" opacity="1.0"/>
+<rect x="456.7" y="456.7" width="127.5" height="127.5" fill="#f3ea8a" stroke="#666" stroke-width="1.5" opacity="1.0"/>
+<rect x="215.8" y="215.8" width="127.5" height="127.5" fill="#f3ea8a" stroke="#666" stroke-width="1.5" opacity="1.0"/>
+<rect x="456.7" y="215.8" width="127.5" height="127.5" fill="#f3ea8a" stroke="#666" stroke-width="1.5" opacity="1.0"/>
+<text x="400.0" y="394.3" font-size="22" fill="#444" text-anchor="middle">田字形禁行区</text>
+<rect x="655.0" y="60.0" width="85.0" height="85.0" fill="#0b46ff" stroke="#0833aa" stroke-width="2" opacity="1.0"/>
+<text x="697.5" y="102.5" font-size="20" fill="white" text-anchor="middle">启停区1</text>
+<rect x="655.0" y="655.0" width="85.0" height="85.0" fill="#0b46ff" stroke="#0833aa" stroke-width="2" opacity="1.0"/>
+<text x="697.5" y="697.5" font-size="20" fill="white" text-anchor="middle">启停区2</text>
+<rect x="60.0" y="317.8" width="42.5" height="164.3" fill="#ffffff" stroke="#444" stroke-width="2" opacity="1.0"/>
+<text x="82.7" y="400.0" font-size="18" fill="#111" text-anchor="middle" transform="rotate(-90,82.7,400.0)">暂存区</text>
+<rect x="317.8" y="697.5" width="164.3" height="42.5" fill="#ffffff" stroke="#444" stroke-width="2" opacity="1.0"/>
+<text x="400.0" y="714.5" font-size="18" fill="#111" text-anchor="middle">粗加工区</text>
+<circle cx="400.0" cy="102.5" r="42.5" fill="#fffdf2" stroke="#111" stroke-width="2" opacity="1.0"/>
+<text x="400.0" y="79.8" font-size="18" fill="#111" text-anchor="middle">原料区圆盘</text>
+<circle cx="82.7" cy="366.0" r="9.9" fill="none" stroke="red" stroke-width="5" opacity="1.0"/>
+<circle cx="82.7" cy="405.7" r="9.9" fill="none" stroke="green" stroke-width="5" opacity="1.0"/>
+<circle cx="82.7" cy="445.3" r="9.9" fill="none" stroke="blue" stroke-width="5" opacity="1.0"/>
+<circle cx="357.5" cy="717.3" r="9.9" fill="none" stroke="red" stroke-width="5" opacity="1.0"/>
+<circle cx="400.0" cy="717.3" r="9.9" fill="none" stroke="green" stroke-width="5" opacity="1.0"/>
+<circle cx="442.5" cy="717.3" r="9.9" fill="none" stroke="blue" stroke-width="5" opacity="1.0"/>
+<text x="632.3" y="400.0" font-size="16" fill="#333" text-anchor="middle" transform="rotate(-90,632.3,400.0)">二维码板
+位置待定</text>
+<text x="400.0" y="768.3" font-size="22" fill="#111" text-anchor="middle">工创智能搬运比赛场地静态地图 V4（彩色预览）</text>
+</svg>

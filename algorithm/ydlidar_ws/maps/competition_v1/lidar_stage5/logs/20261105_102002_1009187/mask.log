@@ -1,0 +1,20 @@
+[INFO] [1793845203.173606247] [competition_s5_mask]: 
+	competition_s5_mask lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793845203.173701590] [competition_s5_mask]: Creating
+[INFO] [1793845214.065798042] [competition_s5_mask]: Configuring
+[INFO] [1793845214.065941407] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.yaml
+[INFO] [1793845214.066276050] [map_io]: resolution: 0.01
+[INFO] [1793845214.066286720] [map_io]: origin[0]: -0.2
+[INFO] [1793845214.066292954] [map_io]: origin[1]: -0.2
+[INFO] [1793845214.066299183] [map_io]: origin[2]: 0
+[INFO] [1793845214.066305443] [map_io]: free_thresh: 0.196
+[INFO] [1793845214.066311697] [map_io]: occupied_thresh: 0.65
+[INFO] [1793845214.066318402] [map_io]: mode: trinary
+[INFO] [1793845214.066325699] [map_io]: negate: 0
+[INFO] [1793845214.066560460] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm
+[INFO] [1793845214.074441124] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793845219.252074791] [competition_s5_mask]: Activating
+[INFO] [1793845219.252358121] [competition_s5_mask]: Creating bond (competition_s5_mask) to lifecycle manager.
+Magick: quitting due to signal 1 (SIGHUP) "Hangup"...

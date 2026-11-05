@@ -1,0 +1,26 @@
+[INFO] [1793794537.832637770] [competition_static_map_server]: 
+	competition_static_map_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793794537.832718572] [competition_static_map_server]: Creating
+[INFO] [1793794540.409338541] [competition_static_map_server]: Configuring
+[INFO] [1793794540.409458149] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.yaml
+[INFO] [1793794540.409779150] [map_io]: resolution: 0.01
+[INFO] [1793794540.409791907] [map_io]: origin[0]: -0.2
+[INFO] [1793794540.409798159] [map_io]: origin[1]: -0.2
+[INFO] [1793794540.409805617] [map_io]: origin[2]: 0
+[INFO] [1793794540.409811599] [map_io]: free_thresh: 0.196
+[INFO] [1793794540.409818052] [map_io]: occupied_thresh: 0.65
+[INFO] [1793794540.409824703] [map_io]: mode: trinary
+[INFO] [1793794540.409832082] [map_io]: negate: 0
+[INFO] [1793794540.410052118] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm
+[INFO] [1793794540.420697842] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793794542.273590305] [competition_static_map_server]: Activating
+[INFO] [1793794542.273944040] [competition_static_map_server]: Creating bond (competition_static_map_server) to lifecycle manager.
+[INFO] [1793794554.095364509] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793794554.095466274] [competition_static_map_server]: Running Nav2 LifecycleNode rcl preshutdown (competition_static_map_server)
+[INFO] [1793794554.095541050] [competition_static_map_server]: Deactivating
+[INFO] [1793794554.095565858] [competition_static_map_server]: Destroying bond (competition_static_map_server) to lifecycle manager.
+[INFO] [1793794554.105742770] [competition_static_map_server]: Cleaning up
+[INFO] [1793794554.105791574] [competition_static_map_server]: Destroying bond (competition_static_map_server) to lifecycle manager.
+[INFO] [1793794554.106921587] [competition_static_map_server]: Destroying

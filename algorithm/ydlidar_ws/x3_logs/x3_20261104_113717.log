@@ -1,0 +1,9 @@
+[INFO] [1793763437.286197562] [ydlidar_ros2_driver_node]: [YDLIDAR INFO] Current ROS Driver Version: 1.0.1
+
+YDLidar SDK initializing
+YDLidar SDK has been initialized
+[YDLIDAR]:SDK Version: 1.0.6
+LiDAR successfully connected
+[YDLIDAR]:Lidar running correctly ! The health status: good
+LiDAR init success, Elapsed time 622 ms
+[CYdLidar] Successed to start scan mode, Elapsed time 1061 ms

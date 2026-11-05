@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="830" viewBox="0 0 980 830">
+<rect width="980" height="830" fill="#fafafa"/>
+<text x="92" y="48" font-size="25" font-weight="bold" fill="#172334">工创智能搬运 · 初赛静态场地 V1</text>
+<text x="92" y="75" font-size="14" fill="#64748b">2400 × 2400 mm；图示推算版，必须与现场尺寸核对</text>
+<rect x="82" y="92" width="596.0" height="596.0" fill="#eee"/>
+<rect x="92" y="102" width="576.0" height="576.0" fill="#c6c9cc" stroke="#334155" stroke-width="3"/>
+<rect x="224.0" y="438.0" width="108.0" height="108.0" fill="#fff1a8" stroke="#bca560"/>
+<rect x="428.0" y="438.0" width="108.0" height="108.0" fill="#fff1a8" stroke="#bca560"/>
+<rect x="224.0" y="234.0" width="108.0" height="108.0" fill="#fff1a8" stroke="#bca560"/>
+<rect x="428.0" y="234.0" width="108.0" height="108.0" fill="#fff1a8" stroke="#bca560"/>
+<rect x="92.0" y="320.4" width="36.0" height="139.2" fill="#ffffff" stroke="#8b8b8b"/>
+<rect x="310.4" y="642.0" width="139.2" height="36.0" fill="#ffffff" stroke="#8b8b8b"/>
+<rect x="596.0" y="102.0" width="72.0" height="72.0" fill="#1b50f0" stroke="#0c36a9"/>
+<rect x="596.0" y="606.0" width="72.0" height="72.0" fill="#1b50f0" stroke="#0c36a9"/>
+<line x1="92" y1="678.0" x2="668.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="80" y="682.0" font-size="13" text-anchor="end" fill="#3f4b58">0.0</text>
+<line x1="92" y1="582.0" x2="668.0" y2="582.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="80" y="586.0" font-size="13" text-anchor="end" fill="#3f4b58">0.4</text>
+<line x1="92" y1="486.0" x2="668.0" y2="486.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="80" y="490.0" font-size="13" text-anchor="end" fill="#3f4b58">0.8</text>
+<line x1="92" y1="390.0" x2="668.0" y2="390.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="80" y="394.0" font-size="13" text-anchor="end" fill="#3f4b58">1.2</text>
+<line x1="92" y1="294.0" x2="668.0" y2="294.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="80" y="298.0" font-size="13" text-anchor="end" fill="#3f4b58">1.6</text>
+<line x1="92" y1="198.0" x2="668.0" y2="198.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="80" y="202.0" font-size="13" text-anchor="end" fill="#3f4b58">2.0</text>
+<line x1="92" y1="102.0" x2="668.0" y2="102.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="80" y="106.0" font-size="13" text-anchor="end" fill="#3f4b58">2.4</text>
+<line x1="92.0" y1="102" x2="92.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="92.0" y="700.0" font-size="13" text-anchor="middle" fill="#3f4b58">0.0</text>
+<line x1="188.0" y1="102" x2="188.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="188.0" y="700.0" font-size="13" text-anchor="middle" fill="#3f4b58">0.4</text>
+<line x1="284.0" y1="102" x2="284.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="284.0" y="700.0" font-size="13" text-anchor="middle" fill="#3f4b58">0.8</text>
+<line x1="380.0" y1="102" x2="380.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="380.0" y="700.0" font-size="13" text-anchor="middle" fill="#3f4b58">1.2</text>
+<line x1="476.0" y1="102" x2="476.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="476.0" y="700.0" font-size="13" text-anchor="middle" fill="#3f4b58">1.6</text>
+<line x1="572.0" y1="102" x2="572.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="572.0" y="700.0" font-size="13" text-anchor="middle" fill="#3f4b58">2.0</text>
+<line x1="668.0" y1="102" x2="668.0" y2="678.0" stroke="#ffffff" stroke-opacity=".16"/>
+<text x="668.0" y="700.0" font-size="13" text-anchor="middle" fill="#3f4b58">2.4</text>
+<text x="380.0" y="396.0" font-size="17" text-anchor="middle" fill="#334155">十字灰色车道 400 mm</text>
+<text x="632.0" y="143.99999999999997" font-size="16" fill="white" text-anchor="middle">启停 1</text>
+<text x="632.0" y="648.0" font-size="16" fill="white" text-anchor="middle">启停 2</text>
+<text x="224.0" y="490.79999999999995" font-size="14" fill="#735e26">禁行</text>
+<text x="428.0" y="490.79999999999995" font-size="14" fill="#735e26">禁行</text>
+<text x="224.0" y="286.8" font-size="14" fill="#735e26">禁行</text>
+<text x="428.0" y="286.8" font-size="14" fill="#735e26">禁行</text>
+<text x="380.0" y="85" font-size="16" text-anchor="middle" fill="#334155">原料转盘：位置浮动，顶边附近</text>
+<text x="380.0" y="625.1999999999999" font-size="15" text-anchor="middle" fill="#334155">粗加工区</text>
+<text x="149.6" y="399.6" font-size="15" fill="#334155">暂存区</text>
+<text x="681.0" y="390.0" font-size="16" fill="#334155">二维码板</text>
+<text x="681.0" y="413.0" font-size="13" fill="#b45309">位置随机，不是固定导航点</text>
+<text x="92" y="776" font-size="14" fill="#475569">灰色：可通行   蓝色：启停区   黄色：禁止驶入   白色站位：作业区域（按图示暂列禁行）</text>
+<text x="92" y="799" font-size="13" fill="#b45309">注意：随机黑色圆柱未画入静态地图；二维码任务顺序由扫码获得</text>
+</svg>

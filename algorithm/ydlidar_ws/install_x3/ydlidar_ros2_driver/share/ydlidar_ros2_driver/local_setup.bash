@@ -1,0 +1,1 @@
+/home/tao/Desktop/ydlidar_ws/build_x3/ydlidar_ros2_driver/ament_cmake_environment_hooks/local_setup.bash

@@ -1,0 +1,15 @@
+[INFO] [1793862659.323526317] [costmap_filter_info_server]: This is costmap filter info publisher
+[INFO] [1793862659.337081598] [competition_s4_info]: 
+	competition_s4_info lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862672.081170891] [competition_s4_info]: Configuring
+[INFO] [1793862674.008393334] [competition_s4_info]: Activating
+[INFO] [1793862674.008568792] [competition_s4_info]: Creating bond (competition_s4_info) to lifecycle manager.
+[INFO] [1793862709.955472133] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793862709.955656061] [competition_s4_info]: Running Nav2 LifecycleNode rcl preshutdown (competition_s4_info)
+[INFO] [1793862709.955778975] [competition_s4_info]: Deactivating
+[INFO] [1793862709.955825353] [competition_s4_info]: Destroying bond (competition_s4_info) to lifecycle manager.
+[INFO] [1793862709.966081142] [competition_s4_info]: Cleaning up
+[INFO] [1793862709.966173032] [competition_s4_info]: Destroying bond (competition_s4_info) to lifecycle manager.
+[INFO] [1793862709.967992364] [competition_s4_info]: Destroying

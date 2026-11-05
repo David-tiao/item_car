@@ -1,0 +1,667 @@
+[INFO] [1793763310.882252255] [ydlidar_ros2_driver_node]: [YDLIDAR INFO] Current ROS Driver Version: 1.0.1
+
+YDLidar SDK initializing
+YDLidar SDK has been initialized
+[YDLIDAR]:SDK Version: 1.0.6
+LiDAR successfully connected
+[YDLIDAR]:Lidar running correctly ! The health status: good
+LiDAR init success, Elapsed time 623 ms
+[CYdLidar] Successed to start scan mode, Elapsed time 1061 ms
+[YDLIDAR] Calc Sample Rate: 4K
+[YDLIDAR] Fixed Size: 720
+[YDLIDAR] Sample Rate: 3K
+[YDLIDAR] Calc Sample Rate: 4K
+[YDLIDAR] Fixed Size: 720
+[YDLIDAR] Sample Rate: 3K
+[YDLIDAR]:Single Fixed Size: 660
+[YDLIDAR]:Sample Rate: 3K
+[YDLIDAR INFO] Single Channel Current Sampling Rate: 3K
+[YDLIDAR INFO] Now YDLIDAR is scanning ......
+[YDLIDAR] Connection established in [/dev/ttyUSB0][115200]:
+Firmware version: 2.4
+Hardware version: 0
+Model: F2
+Serial: 2019011700004120
+timout count: 1
+[YDLIDAR ERROR]: Operation timed out
+[ERROR] [1793765408.116305661] [ydlidar_ros2_driver_node]: Failed to get scan
+timout count: 1
+[YDLIDAR ERROR]: Device Failed
+[ERROR] [1793765433.681511509] [ydlidar_ros2_driver_node]: Failed to get scan
+[ERROR] [1793765435.681847386] [ydlidar_ros2_driver_node]: Failed to get scan
+timout count: 1
+[YDLIDAR ERROR]: Operation timed out
+[ERROR] [1793765455.774034253] [ydlidar_ros2_driver_node]: Failed to get scan
+timout count: 2
+[YDLIDAR ERROR]: Device Tremble
+[ERROR] [1793765457.774520596] [ydlidar_ros2_driver_node]: Failed to get scan
+timout count: 1
+[YDLIDAR ERROR]: Operation timed out
+[ERROR] [1793765472.256716690] [ydlidar_ros2_driver_node]: Failed to get scan
+timout count: 1
+timout count: 1
+timout count: 1
+[YDLIDAR ERROR]: Operation timed out
+[ERROR] [1793765568.452498862] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device Tremble
+[ERROR] [1793765572.262246874] [ydlidar_ros2_driver_node]: Failed to get scan
+[ERROR] [1793765962.190254091] [ydlidar_ros2_driver_node]: Failed to get scan
+timout count: 1
+[YDLIDAR ERROR]: Operation timed out
+[ERROR] [1793766033.419810722] [ydlidar_ros2_driver_node]: Failed to get scan
+[ERROR] [1793766102.957151603] [ydlidar_ros2_driver_node]: Failed to get scan
+timout count: 1
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767203.991527119] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767205.992038162] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767207.992453776] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767209.992826505] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767211.993496646] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767213.994207491] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767215.994696201] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767217.995091331] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767219.995486435] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767221.995871286] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767223.996386644] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767225.996841201] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767227.997246058] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767229.997682855] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767231.998009560] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767233.998331405] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767235.998708586] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767237.999228342] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767239.999708018] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767242.000244650] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767244.000698440] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767246.001136208] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767248.001583316] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767250.001964644] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767252.002266603] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767254.002674683] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767256.003088687] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767258.003641629] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767260.004082285] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767262.004473427] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767264.005058252] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767266.005469373] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767268.006007536] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767270.006700508] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767272.007167596] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767274.007575676] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767276.008042278] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767278.008475413] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767280.008914855] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767282.009301727] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767284.009753696] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767286.010440817] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767288.010923753] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767290.011382911] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767292.011768205] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767294.012144811] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767296.012516197] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767298.012999621] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767300.013488054] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767302.013867158] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767304.014343590] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767306.014720598] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767308.015079564] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767310.015413220] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767312.015976023] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767314.016329113] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767316.016700959] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767318.017247381] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767320.017749313] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767322.018171060] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767324.018711437] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767326.019270566] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767328.019866247] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767330.020427559] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767332.021089139] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767334.021790496] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767336.022266866] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767338.022765114] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767340.023305178] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767342.023784739] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767344.024347824] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767346.024829737] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767348.025289376] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767350.025827729] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767352.026269592] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767354.026786703] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767356.027251070] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767358.027478632] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767360.027814384] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767362.028412246] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767364.028953589] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767366.029437387] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767368.029981698] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767370.030608698] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767372.031074943] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767374.031371911] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767376.031825697] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767378.032300310] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767380.032745961] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767382.033184181] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767384.033669983] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767386.034140742] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767388.034684517] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767390.035334055] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767392.035913327] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767394.036612085] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767396.037083723] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767398.037480963] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767400.038023985] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767402.038692998] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767404.039118744] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767406.039368857] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767408.039647843] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767410.040150077] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767412.040632021] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767414.041033112] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767416.041541077] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767418.042082456] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767420.042770311] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767422.043207132] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767424.043578361] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767426.043983994] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767428.044369688] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767430.044750127] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767432.045265403] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767434.045821191] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767436.046406968] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767438.046901149] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767440.047301611] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767442.047665055] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767444.048073307] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767446.048565618] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767448.049320422] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767450.049850027] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767452.050297150] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767454.050768929] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767456.051128411] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767458.051578792] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767460.052066864] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767462.052580116] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767464.053144237] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767466.053795871] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767468.054281599] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767470.054751403] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767472.055189015] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767474.055880736] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767476.056269221] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767478.056553285] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767480.057025019] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767482.057408234] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767484.057928260] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767486.058624453] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767488.059460597] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767490.059862835] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767492.060388349] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767494.060763619] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767496.061172650] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767498.061450165] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767500.061801856] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767502.062175545] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767504.062504849] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767506.062789209] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767508.063312384] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767510.063777074] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767512.064278161] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767514.064939540] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767516.065708155] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767518.066341572] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767520.066918578] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767522.067529898] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767524.068292632] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767526.069269650] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767528.069658799] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767530.070155946] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767532.070606443] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767534.071194149] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767536.071716576] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767538.071995675] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767540.072265595] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767542.072666940] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767544.073178412] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767546.073561289] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767548.074039385] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767550.074791102] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767552.075362860] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767554.075927106] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767556.076432439] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767558.076977532] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767560.077445486] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767562.077862987] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767564.078401254] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767566.078807961] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767568.079352962] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767570.079807854] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767572.080318103] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767574.080767594] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767576.081649291] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767578.082389663] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767580.082938608] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767582.083352227] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767584.083773439] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767586.084064903] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767588.084364837] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767590.084907729] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767592.085557580] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767594.086170884] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767596.086942618] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767598.087513123] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767600.088041261] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767602.088643768] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767604.089235417] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767606.089781412] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767608.090364393] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767610.090857225] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767612.091347227] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767614.091922878] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767616.092539417] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767618.095032428] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767620.095475493] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767622.095872026] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767624.096294099] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767626.096675811] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767628.097178342] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767630.097636419] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767632.098255544] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767634.098619664] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767636.099100405] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767638.099638984] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767640.100251402] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767642.101015663] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767644.101402603] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767646.101789658] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767648.102402367] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767650.102948979] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767652.103384970] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767654.104181066] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767656.104820703] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767658.105297374] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767660.105777371] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767662.106405884] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767664.107004424] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767666.107431998] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767668.108074098] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767670.109801822] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767672.110362038] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767674.111336998] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767676.112112860] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767678.112934249] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767680.113577965] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767682.113995517] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767684.114368411] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767686.114902670] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767688.115519831] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767690.115925449] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767692.116488319] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767694.117143941] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767696.117619011] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767698.118272554] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767700.118813205] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767702.119462777] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767704.120005393] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767706.120414999] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767708.120881161] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767710.121339192] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767712.121777849] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767714.122419170] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767716.122945757] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767718.123413265] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767720.123903896] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767722.124556867] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767724.125254068] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767726.125726766] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767728.126343592] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767730.126877935] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767732.127407977] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767734.127959080] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767736.128382807] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767738.128839006] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767740.129304203] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767742.129785421] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767744.130414891] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767746.130929194] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767748.131273690] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767750.131727750] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767752.132129887] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767754.132630109] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767756.133045153] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767758.133584156] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767760.134086509] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767762.134558082] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767764.134993968] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767766.135343594] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767768.135678950] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767770.136136449] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767772.136713405] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767774.137249880] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767776.137729004] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767778.138079087] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767780.138547963] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767782.139019854] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767784.139746727] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767786.140459941] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767788.141203909] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767790.141957025] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767792.142732917] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767794.143614920] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767796.144365155] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767798.145004243] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767800.145578393] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767802.146088846] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767804.146635465] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767806.147287259] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767808.147967568] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767810.148592798] [ydlidar_ros2_driver_node]: Failed to get scan
+[YDLIDAR ERROR]: Device is not open
+[ERROR] [1793767812.149350604] [ydlidar_ros2_driver_node]: Failed to get scan
+[INFO] [1793768009.939761566] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793768010.054836891] [ydlidar_ros2_driver_node]: [YDLIDAR INFO] Now YDLIDAR is stopping .......
+130765058692672 thread has been canceled
+[YDLIDAR INFO] Now YDLIDAR Scanning has stopped ......

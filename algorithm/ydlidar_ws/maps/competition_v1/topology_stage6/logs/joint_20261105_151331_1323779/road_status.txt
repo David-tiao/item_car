@@ -1,0 +1,2 @@
+data: '{"ready": false, "start": "C1", "goal": "A3", "blocked": [], "blocked_by_lidar_costmap": [], "route": [], "status": "WAIT_FOR_CO...'
+---

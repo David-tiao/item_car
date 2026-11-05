@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/costmap_stage4/test_pose_tf.py", line 9, in <module>
+    node=Node('competition_stage4_TEST_POSE_not_for_driving')
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/node.py", line 199, in __init__
+    self._parameter_event_publisher = self.create_publisher(
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/node.py", line 1299, in create_publisher
+    publisher_object = _rclpy.Publisher(
+rclpy._rclpy_pybind11.RCLError: Failed to create publisher: rcl node's context is invalid, at ./src/rcl/node.c:428

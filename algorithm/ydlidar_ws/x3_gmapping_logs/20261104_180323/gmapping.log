@@ -1,0 +1,182 @@
+[INFO] [1793786607.485669839] [slam_gmapping]: Laser is mounted upwards.
+ -maxUrange 7.99 -maxUrange 7.99 -sigma     0.05 -kernelSize 1 -lstep 0.05 -lobsGain 3 -astep 0.05
+ -srr 0.1 -srt 0.2 -str 0.1 -stt 0.2
+ -linearUpdate 1 -angularUpdate 0.5 -resampleThreshold 0.5
+ -xmin -10 -xmax 10 -ymin -10 -ymax 10 -delta 0.05 -particles 30
+[INFO] [1793786607.485982777] [slam_gmapping]: Initialization complete
+update frame 0
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 0
+Registering First Scan
+update frame 11
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 1
+Average Scan Matching Score=268.102
+neff= 30
+Registering Scans:Done
+update frame 25
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 2
+Average Scan Matching Score=354.873
+neff= 30
+Registering Scans:Done
+update frame 38
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 3
+Average Scan Matching Score=350.974
+neff= 30
+Registering Scans:Done
+update frame 51
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 4
+Average Scan Matching Score=352.455
+neff= 30
+Registering Scans:Done
+update frame 64
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 5
+Average Scan Matching Score=356.994
+neff= 30
+Registering Scans:Done
+update frame 76
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 6
+Average Scan Matching Score=283.821
+neff= 30
+Registering Scans:Done
+update frame 89
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 7
+Average Scan Matching Score=360.486
+neff= 30
+Registering Scans:Done
+update frame 102
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 8
+Average Scan Matching Score=354.551
+neff= 30
+Registering Scans:Done
+update frame 115
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 9
+Average Scan Matching Score=359.987
+neff= 30
+Registering Scans:Done
+update frame 128
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 10
+Average Scan Matching Score=358.78
+neff= 30
+Registering Scans:Done
+update frame 141
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 11
+Average Scan Matching Score=363.736
+neff= 30
+Registering Scans:Done
+update frame 154
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 12
+Average Scan Matching Score=359.975
+neff= 30
+Registering Scans:Done
+update frame 167
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 13
+Average Scan Matching Score=368.654
+neff= 30
+Registering Scans:Done
+update frame 180
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 14
+Average Scan Matching Score=372.255
+neff= 30
+Registering Scans:Done
+update frame 193
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 15
+Average Scan Matching Score=359.859
+neff= 30
+Registering Scans:Done
+update frame 205
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 16
+Average Scan Matching Score=373.966
+neff= 30
+Registering Scans:Done
+update frame 218
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 17
+Average Scan Matching Score=379.206
+neff= 30
+Registering Scans:Done
+update frame 231
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 18
+Average Scan Matching Score=342.007
+neff= 30
+Registering Scans:Done
+update frame 244
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 19
+Average Scan Matching Score=375.669
+neff= 30
+Registering Scans:Done
+update frame 257
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 20
+Average Scan Matching Score=382.792
+neff= 30
+Registering Scans:Done
+update frame 269
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 21
+Average Scan Matching Score=378.444
+neff= 30
+Registering Scans:Done
+update frame 282
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 22
+Average Scan Matching Score=368.921
+neff= 30
+Registering Scans:Done
+update frame 295
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 23
+Average Scan Matching Score=365.921
+neff= 30
+Registering Scans:Done
+update frame 308
+update ld=0 ad=0
+Laser Pose= 0 0 0
+m_count 24
+[INFO] [1793786655.328981668] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+Average Scan Matching Score=367.951
+neff= 30
+Registering Scans:Done
+virtual GMapping::GridSlamProcessor::~GridSlamProcessor(): Start
+virtual GMapping::GridSlamProcessor::~GridSlamProcessor(): Deleting tree

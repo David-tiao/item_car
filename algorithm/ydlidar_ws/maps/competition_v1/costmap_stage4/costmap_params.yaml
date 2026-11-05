@@ -1,0 +1,62 @@
+# 第四阶段仅测试 Nav2 Costmap + Keepout，不启动 planner/controller。
+# TEST_TF：固定 map->odom 和 odom->base_link(1.2,1.2)，严禁用于实车导航。
+global_costmap:
+  global_costmap:
+    ros__parameters:
+      use_sim_time: false
+      global_frame: map
+      robot_base_frame: base_link
+      update_frequency: 2.0
+      publish_frequency: 1.0
+      always_send_full_costmap: true
+      transform_tolerance: 0.5
+      resolution: 0.01
+      track_unknown_space: true
+      rolling_window: false
+      robot_radius: 0.15   # 仅演示占位，实车必须更换为实际 footprint
+      plugins: [static_layer]
+      static_layer:
+        plugin: nav2_costmap_2d::StaticLayer
+        map_topic: /map
+        map_subscribe_transient_local: true
+      filters: [keepout_filter, keepout_inflation]
+      keepout_filter:
+        plugin: nav2_costmap_2d::KeepoutFilter
+        enabled: true
+        filter_info_topic: /costmap_filter_info
+      keepout_inflation:
+        plugin: nav2_costmap_2d::InflationLayer
+        enabled: true
+        inflation_radius: 0.10
+        cost_scaling_factor: 8.0
+local_costmap:
+  local_costmap:
+    ros__parameters:
+      use_sim_time: false
+      global_frame: map  # 仅测试阶段；接入真实底盘时改为 odom
+      robot_base_frame: base_link
+      update_frequency: 2.0
+      publish_frequency: 1.0
+      always_send_full_costmap: true
+      transform_tolerance: 0.5
+      resolution: 0.01
+      width: 3
+      height: 3
+      rolling_window: true
+      track_unknown_space: false
+      robot_radius: 0.15
+      plugins: ["static_layer"]
+      static_layer:
+        plugin: "nav2_costmap_2d::StaticLayer"
+        map_topic: /map
+        map_subscribe_transient_local: true
+      filters: [keepout_filter, keepout_inflation]
+      keepout_filter:
+        plugin: nav2_costmap_2d::KeepoutFilter
+        enabled: true
+        filter_info_topic: /costmap_filter_info
+      keepout_inflation:
+        plugin: nav2_costmap_2d::InflationLayer
+        enabled: true
+        inflation_radius: 0.10
+        cost_scaling_factor: 8.0

@@ -1,0 +1,140 @@
+[WARN] [1793862904.289135998] [competition_stage6_road_topology]: 当前只规划和显示路线，不发送电机指令！
+[INFO] [1793862905.286062275] [competition_stage6_road_topology]: 封路=[] | 路线=C1→B1→A1→A2→A3
+[INFO] [1793862906.281575935] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862907.285737491] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862908.284877931] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862909.285200234] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862910.281637745] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862911.284678786] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862912.284566928] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862913.285911745] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862914.284769758] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862915.284895393] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862916.285738470] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862917.286938893] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862918.285422043] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862919.285369622] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862920.285722614] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862921.286441796] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862922.285329600] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862923.284847741] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862924.284822490] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862925.285898190] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862926.284752823] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862927.284563007] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862928.284714587] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862929.285907266] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862930.284467279] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862931.286061776] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862932.286103722] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862933.286215242] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862934.285760176] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862935.285808467] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862936.286009376] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862937.285934495] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862938.285808260] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862939.284959581] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862940.286118541] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862941.285791034] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862942.285599415] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862943.285760112] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862944.286005342] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862945.285772094] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862946.284388127] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862947.285660198] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862948.286291947] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862949.285626148] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862950.285825141] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862951.285845370] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862952.285681034] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862953.285210863] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862954.285153785] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862955.285741664] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862956.285643304] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862957.286094856] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862958.285541320] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862959.285981391] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862960.285668879] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862961.285607333] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862962.285821944] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862963.285862083] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862964.286004145] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862965.285730352] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862966.286153032] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862967.286148955] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862968.285788056] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862969.285774446] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862970.285309109] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862971.286019960] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862972.283904487] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862973.285572182] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862974.285732131] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862975.287005545] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862976.285117308] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862977.286697209] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862978.286154788] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862979.285593408] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862980.285833434] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862981.286681091] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862982.285373529] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862983.286346201] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862984.285796445] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862985.286151248] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862986.285732371] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862987.285893075] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862988.286328916] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862989.286795766] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862990.284682977] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862991.286805896] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862992.284894111] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862993.285508649] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862994.285341752] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862995.284038281] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862996.284522196] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862997.285833857] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862998.284593018] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793862999.286010424] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863000.285659460] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863001.285303567] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863002.284546074] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863003.284776523] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863004.285747834] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863005.285776420] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863006.285820195] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863007.286986376] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863008.285994109] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863009.284328555] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863010.286169359] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863011.285976653] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863012.286028643] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863013.285770096] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863014.285962610] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863015.284629661] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863016.286460656] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863017.286854135] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863018.285653338] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863019.286178331] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863020.285625275] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863021.283901543] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863022.285363255] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863023.286239502] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863024.286442611] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863025.285941411] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863026.285140599] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+[INFO] [1793863027.285067841] [competition_stage6_road_topology]: 封路=['A1-A2', 'A1-B1', 'A2-A3', 'A2-B2', 'A3-B3', 'B1-B2', 'B1-C1', 'B2-B3', 'B2-C2', 'B3-C3', 'C1-C2', 'C2-C3'] | 路线=无可走路线
+Traceback (most recent call last):
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/topology_stage6/road_topology.py", line 565, in <module>
+    run()
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/topology_stage6/road_topology.py", line 552, in run
+    rclpy.spin(node)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/__init__.py", line 229, in spin
+    executor.spin_once()
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 808, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 797, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 780, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 681, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

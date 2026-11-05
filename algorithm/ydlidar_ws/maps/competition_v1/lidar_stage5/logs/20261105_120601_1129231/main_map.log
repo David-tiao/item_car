@@ -1,0 +1,23 @@
+[INFO] [1793851562.015396702] [competition_s5_main_map]: 
+	competition_s5_main_map lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793851562.015492963] [competition_s5_main_map]: Creating
+[INFO] [1793851572.327091921] [competition_s5_main_map]: Configuring
+[INFO] [1793851572.327166030] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.yaml
+[INFO] [1793851572.327357935] [map_io]: resolution: 0.01
+[INFO] [1793851572.327361862] [map_io]: origin[0]: -0.2
+[INFO] [1793851572.327364340] [map_io]: origin[1]: -0.2
+[INFO] [1793851572.327366932] [map_io]: origin[2]: 0
+[INFO] [1793851572.327369445] [map_io]: free_thresh: 0.196
+[INFO] [1793851572.327372011] [map_io]: occupied_thresh: 0.65
+[INFO] [1793851572.327374859] [map_io]: mode: trinary
+[INFO] [1793851572.327378236] [map_io]: negate: 0
+[INFO] [1793851572.327505112] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm
+[INFO] [1793851572.332602118] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm: 280 X 280 map @ 0.01 m/cell
+[WARN] [1793851574.270493654] [competition_s5_main_map.rclcpp]: failed to send response to /competition_s5_main_map/get_available_transitions (timeout): client will not receive response, at ./src/rmw_response.cpp:154, at ./src/rcl/service.c:314
+[INFO] [1793851599.488397787] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793851599.488560035] [competition_s5_main_map]: Running Nav2 LifecycleNode rcl preshutdown (competition_s5_main_map)
+[INFO] [1793851599.488680998] [competition_s5_main_map]: Cleaning up
+[INFO] [1793851599.488745366] [competition_s5_main_map]: Destroying bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793851599.491626592] [competition_s5_main_map]: Destroying
