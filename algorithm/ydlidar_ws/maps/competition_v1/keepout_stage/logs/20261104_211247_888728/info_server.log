@@ -1,0 +1,15 @@
+[INFO] [1793797967.756317677] [costmap_filter_info_server]: This is costmap filter info publisher
+[INFO] [1793797967.782990435] [competition_keepout_info_server]: 
+	competition_keepout_info_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793797979.518626504] [competition_keepout_info_server]: Configuring
+[INFO] [1793797981.685888758] [competition_keepout_info_server]: Activating
+[INFO] [1793797981.685951290] [competition_keepout_info_server]: Creating bond (competition_keepout_info_server) to lifecycle manager.
+[INFO] [1793799058.386472976] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793799058.386636540] [competition_keepout_info_server]: Running Nav2 LifecycleNode rcl preshutdown (competition_keepout_info_server)
+[INFO] [1793799058.386747735] [competition_keepout_info_server]: Deactivating
+[INFO] [1793799058.386781498] [competition_keepout_info_server]: Destroying bond (competition_keepout_info_server) to lifecycle manager.
+[INFO] [1793799058.397008890] [competition_keepout_info_server]: Cleaning up
+[INFO] [1793799058.397074453] [competition_keepout_info_server]: Destroying bond (competition_keepout_info_server) to lifecycle manager.
+[INFO] [1793799058.398105419] [competition_keepout_info_server]: Destroying

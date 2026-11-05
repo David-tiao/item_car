@@ -1,0 +1,20 @@
+[INFO] [1793845203.173924708] [competition_s5_main_map]: 
+	competition_s5_main_map lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793845203.173988393] [competition_s5_main_map]: Creating
+[INFO] [1793845209.140378995] [competition_s5_main_map]: Configuring
+[INFO] [1793845209.140497119] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.yaml
+[INFO] [1793845209.140818571] [map_io]: resolution: 0.01
+[INFO] [1793845209.140827356] [map_io]: origin[0]: -0.2
+[INFO] [1793845209.140833069] [map_io]: origin[1]: -0.2
+[INFO] [1793845209.140838883] [map_io]: origin[2]: 0
+[INFO] [1793845209.140844630] [map_io]: free_thresh: 0.196
+[INFO] [1793845209.140850298] [map_io]: occupied_thresh: 0.65
+[INFO] [1793845209.140856420] [map_io]: mode: trinary
+[INFO] [1793845209.140863155] [map_io]: negate: 0
+[INFO] [1793845209.141082054] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm
+[INFO] [1793845209.148744162] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793845211.303733197] [competition_s5_main_map]: Activating
+[INFO] [1793845211.303957893] [competition_s5_main_map]: Creating bond (competition_s5_main_map) to lifecycle manager.
+Magick: quitting due to signal 1 (SIGHUP) "Hangup"...

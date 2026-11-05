@@ -1,0 +1,3 @@
+[INFO] [1793848631.898408933] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+terminate called after throwing an instance of 'rclcpp::exceptions::RCLError'
+  what():  could not create service: rcl node's context is invalid, at ./src/rcl/node.c:428

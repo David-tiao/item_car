@@ -1,0 +1,27 @@
+[INFO] [1793859196.748544752] [competition_s5_main_map]: 
+	competition_s5_main_map lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793859196.748625909] [competition_s5_main_map]: Creating
+[INFO] [1793859202.858620552] [competition_s5_main_map]: Configuring
+[INFO] [1793859202.858712331] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.yaml
+[INFO] [1793859202.858998433] [map_io]: resolution: 0.01
+[INFO] [1793859202.859012782] [map_io]: origin[0]: -0.2
+[INFO] [1793859202.859021073] [map_io]: origin[1]: -0.2
+[INFO] [1793859202.859028893] [map_io]: origin[2]: 0
+[INFO] [1793859202.859037121] [map_io]: free_thresh: 0.196
+[INFO] [1793859202.859045286] [map_io]: occupied_thresh: 0.65
+[INFO] [1793859202.859053775] [map_io]: mode: trinary
+[INFO] [1793859202.859062268] [map_io]: negate: 0
+[INFO] [1793859202.859258363] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm
+[INFO] [1793859202.866789931] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793859204.812829333] [competition_s5_main_map]: Activating
+[INFO] [1793859204.813110462] [competition_s5_main_map]: Creating bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793859303.272307115] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793859303.272487567] [competition_s5_main_map]: Running Nav2 LifecycleNode rcl preshutdown (competition_s5_main_map)
+[INFO] [1793859303.272588930] [competition_s5_main_map]: Deactivating
+[INFO] [1793859303.272617319] [competition_s5_main_map]: Destroying bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793859303.282815305] [competition_s5_main_map]: Cleaning up
+[INFO] [1793859303.282883704] [competition_s5_main_map]: Destroying bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793859303.283417445] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793859303.284567157] [competition_s5_main_map]: Destroying

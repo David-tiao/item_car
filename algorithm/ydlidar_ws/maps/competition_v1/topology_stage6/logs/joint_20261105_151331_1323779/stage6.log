@@ -1,0 +1,48 @@
+[WARN] [1793862830.561893400] [competition_stage6_road_topology]: 当前只规划和显示路线，不发送电机指令！
+[WARN] [1793862831.558169019] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862832.558569672] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862833.559004994] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862834.558504922] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862835.557618509] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862836.554736899] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862837.557244800] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862838.557814608] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862839.557215987] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862840.557717305] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862841.557798656] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862842.558332400] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862843.557207875] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862844.558283086] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862845.557176331] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862846.559092677] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862847.558729129] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862848.558036929] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862849.558232649] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862850.554765240] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862851.554422232] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862852.557373676] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862853.558880094] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862854.554435729] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862855.557642170] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862856.556748663] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862857.556863826] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862858.556346178] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862859.558090626] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862860.557696324] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+[WARN] [1793862861.557655166] [competition_stage6_road_topology]: 等待 Keepout Mask 和 Global Costmap
+Traceback (most recent call last):
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/topology_stage6/road_topology.py", line 565, in <module>
+    run()
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/topology_stage6/road_topology.py", line 552, in run
+    rclpy.spin(node)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/__init__.py", line 229, in spin
+    executor.spin_once()
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 808, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 797, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 780, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/executors.py", line 681, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

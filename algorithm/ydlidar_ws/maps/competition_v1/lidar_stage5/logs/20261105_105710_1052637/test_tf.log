@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/costmap_stage4/test_pose_tf.py", line 9, in <module>
+    node=Node('competition_stage4_TEST_POSE_not_for_driving')
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/node.py", line 175, in __init__
+    self.__node = _rclpy.Node(
+rclpy._rclpy_pybind11.RCLError: error creating node: the given context is not valid, either rcl_init() was not called or rcl_shutdown() was called., at ./src/rcl/guard_condition.c:67

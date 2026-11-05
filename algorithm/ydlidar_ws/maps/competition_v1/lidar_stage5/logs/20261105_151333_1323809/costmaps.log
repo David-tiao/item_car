@@ -1,0 +1,31 @@
+[INFO] [1793862846.402151096] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862846.402863446] [global_costmap.global_costmap]: Creating Costmap
+[INFO] [1793862846.410805455] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862846.411273580] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1793862858.872903609] [global_costmap.global_costmap]: Configuring
+[INFO] [1793862858.878990623] [global_costmap.global_costmap]: Using plugin "static_layer"
+[INFO] [1793862858.883513378] [global_costmap.global_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1793862858.885291558] [global_costmap.global_costmap]: Initialized plugin "static_layer"
+[INFO] [1793862858.885345110] [global_costmap.global_costmap]: Using plugin "obstacle_layer"
+[INFO] [1793862858.885848273] [global_costmap.global_costmap]: Subscribed to Topics: scan
+[INFO] [1793862858.888942795] [global_costmap.global_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1793862858.889001326] [global_costmap.global_costmap]: Using costmap filter "keepout_filter"
+[INFO] [1793862858.892458958] [global_costmap.global_costmap]: Initialized costmap filter "keepout_filter"
+[INFO] [1793862858.892515291] [global_costmap.global_costmap]: Using costmap filter "keepout_inflation"
+[INFO] [1793862858.893277327] [global_costmap.global_costmap]: Initialized costmap filter "keepout_inflation"
+[ERROR] [1793862858.899621793] [global_costmap.global_costmap]: The configured inflation radius (0.100) is smaller than the computed inscribed radius (0.157) of your footprint, it is highly recommended to set inflation radius to be at least as big as the inscribed radius to avoid collisions
+[INFO] [1793862858.902253650] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 280 X 280 at 0.010000 m/pix
+[INFO] [1793862861.592013509] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793862861.595501042] [local_costmap.local_costmap]: Destroying
+Warning: class_loader.ClassLoader: SEVERE WARNING!!! Attempting to unload library while objects created by this loader exist in the heap! You should delete your objects before attempting to unload the library or destroying the ClassLoader. The library will NOT be unloaded.
+         at line 127 in ./src/class_loader.cpp
+Warning: class_loader.ClassLoader: SEVERE WARNING!!! Attempting to unload library while objects created by this loader exist in the heap! You should delete your objects before attempting to unload the library or destroying the ClassLoader. The library will NOT be unloaded.
+         at line 127 in ./src/class_loader.cpp
+[INFO] [1793862861.607111752] [global_costmap.global_costmap]: Destroying
+[ERROR] [1793862861.607140024] [global_costmap.global_costmap]: Unable to start transition 2 from current state cleaningup: Could not publish transition: publisher's context is invalid, at ./src/rcl/publisher.c:389, at ./src/rcl_lifecycle.c:368

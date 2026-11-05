@@ -1,0 +1,27 @@
+[INFO] [1793862366.611584482] [competition_s5_mask]: 
+	competition_s5_mask lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862366.611690876] [competition_s5_mask]: Creating
+[INFO] [1793862381.311107756] [competition_s5_mask]: Configuring
+[INFO] [1793862381.311263075] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.yaml
+[INFO] [1793862381.311670559] [map_io]: resolution: 0.01
+[INFO] [1793862381.311682555] [map_io]: origin[0]: -0.2
+[INFO] [1793862381.311690312] [map_io]: origin[1]: -0.2
+[INFO] [1793862381.311697886] [map_io]: origin[2]: 0
+[INFO] [1793862381.311711309] [map_io]: free_thresh: 0.196
+[INFO] [1793862381.311718997] [map_io]: occupied_thresh: 0.65
+[INFO] [1793862381.311727055] [map_io]: mode: trinary
+[INFO] [1793862381.311735898] [map_io]: negate: 0
+[INFO] [1793862381.311997578] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm
+[INFO] [1793862381.321615820] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793862383.155793439] [competition_s5_mask]: Activating
+[INFO] [1793862383.155951804] [competition_s5_mask]: Creating bond (competition_s5_mask) to lifecycle manager.
+[INFO] [1793862479.761719203] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793862479.761865744] [competition_s5_mask]: Running Nav2 LifecycleNode rcl preshutdown (competition_s5_mask)
+[INFO] [1793862479.761964762] [competition_s5_mask]: Deactivating
+[INFO] [1793862479.761990614] [competition_s5_mask]: Destroying bond (competition_s5_mask) to lifecycle manager.
+[INFO] [1793862479.772194565] [competition_s5_mask]: Cleaning up
+[INFO] [1793862479.772278799] [competition_s5_mask]: Destroying bond (competition_s5_mask) to lifecycle manager.
+[INFO] [1793862479.773216629] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793862479.776033465] [competition_s5_mask]: Destroying

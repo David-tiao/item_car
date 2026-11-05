@@ -1,0 +1,26 @@
+[INFO] [1793859333.565862195] [competition_s5_main_map]: 
+	competition_s5_main_map lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793859333.565935623] [competition_s5_main_map]: Creating
+[INFO] [1793859339.613308075] [competition_s5_main_map]: Configuring
+[INFO] [1793859339.613398752] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.yaml
+[INFO] [1793859339.613688542] [map_io]: resolution: 0.01
+[INFO] [1793859339.613703143] [map_io]: origin[0]: -0.2
+[INFO] [1793859339.613712201] [map_io]: origin[1]: -0.2
+[INFO] [1793859339.613720559] [map_io]: origin[2]: 0
+[INFO] [1793859339.613729012] [map_io]: free_thresh: 0.196
+[INFO] [1793859339.613737388] [map_io]: occupied_thresh: 0.65
+[INFO] [1793859339.613746030] [map_io]: mode: trinary
+[INFO] [1793859339.613754686] [map_io]: negate: 0
+[INFO] [1793859339.613944108] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm
+[INFO] [1793859339.618684126] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/competition_navigation_map.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793859341.782240750] [competition_s5_main_map]: Activating
+[INFO] [1793859341.782530072] [competition_s5_main_map]: Creating bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793859795.876290246] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793859795.876513493] [competition_s5_main_map]: Running Nav2 LifecycleNode rcl preshutdown (competition_s5_main_map)
+[INFO] [1793859795.876642447] [competition_s5_main_map]: Deactivating
+[INFO] [1793859795.876684538] [competition_s5_main_map]: Destroying bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793859795.886923140] [competition_s5_main_map]: Cleaning up
+[INFO] [1793859795.887021248] [competition_s5_main_map]: Destroying bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793859795.891681307] [competition_s5_main_map]: Destroying

@@ -1,0 +1,27 @@
+
+# ROS 编译文件
+build/
+install/
+log/
+
+# Python 缓存
+__pycache__/
+*.pyc
+.venv/
+venv/
+.cache/
+
+# 雷达录制数据
+*.bag
+*.db3
+*.mcap
+
+# 本地敏感文件
+.env
+.env.*
+*.pem
+*.key
+
+# YDLIDAR runtime logs
+x3_gmapping_logs/
+x3_logs/

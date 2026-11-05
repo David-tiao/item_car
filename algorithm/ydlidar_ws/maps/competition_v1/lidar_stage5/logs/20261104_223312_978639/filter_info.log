@@ -1,0 +1,4 @@
+[INFO] [1793802792.822465262] [costmap_filter_info_server]: This is costmap filter info publisher
+[INFO] [1793802792.832724009] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+terminate called after throwing an instance of 'rclcpp::exceptions::RCLError'
+  what():  could not create subscription: rcl node's context is invalid, at ./src/rcl/node.c:428

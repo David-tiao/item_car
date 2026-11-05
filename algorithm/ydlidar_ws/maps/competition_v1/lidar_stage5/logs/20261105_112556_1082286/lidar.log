@@ -1,0 +1,24 @@
+[INFO] [1793849156.810146409] [ydlidar_ros2_driver_node]: [YDLIDAR INFO] Current ROS Driver Version: 1.0.1
+
+YDLidar SDK initializing
+YDLidar SDK has been initialized
+[YDLIDAR]:SDK Version: 1.0.6
+LiDAR successfully connected
+[YDLIDAR]:Lidar running correctly ! The health status: good
+LiDAR init success, Elapsed time 622 ms
+[CYdLidar] Successed to start scan mode, Elapsed time 1063 ms
+[YDLIDAR] Calc Sample Rate: 4K
+[YDLIDAR] Fixed Size: 720
+[YDLIDAR] Sample Rate: 3K
+[YDLIDAR] Calc Sample Rate: 4K
+[YDLIDAR] Fixed Size: 720
+[YDLIDAR] Sample Rate: 3K
+[YDLIDAR]:Single Fixed Size: 660
+[YDLIDAR]:Sample Rate: 3K
+[YDLIDAR INFO] Single Channel Current Sampling Rate: 3K
+[YDLIDAR INFO] Now YDLIDAR is scanning ......
+[YDLIDAR] Connection established in [/dev/ttyUSB0][115200]:
+Firmware version: 2.4
+Hardware version: 0
+Model: F2
+Serial: 2019011700004120

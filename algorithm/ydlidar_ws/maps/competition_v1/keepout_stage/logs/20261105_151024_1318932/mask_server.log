@@ -1,0 +1,26 @@
+[INFO] [1793862624.300250707] [competition_keepout_mask_server]: 
+	competition_keepout_mask_server lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862624.300330269] [competition_keepout_mask_server]: Creating
+[INFO] [1793862631.983638487] [competition_keepout_mask_server]: Configuring
+[INFO] [1793862631.983712566] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.yaml
+[INFO] [1793862631.983894515] [map_io]: resolution: 0.01
+[INFO] [1793862631.983899601] [map_io]: origin[0]: -0.2
+[INFO] [1793862631.983902348] [map_io]: origin[1]: -0.2
+[INFO] [1793862631.983905099] [map_io]: origin[2]: 0
+[INFO] [1793862631.983907891] [map_io]: free_thresh: 0.196
+[INFO] [1793862631.983910611] [map_io]: occupied_thresh: 0.65
+[INFO] [1793862631.983913701] [map_io]: mode: trinary
+[INFO] [1793862631.983917129] [map_io]: negate: 0
+[INFO] [1793862631.984029570] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm
+[INFO] [1793862631.990597884] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793862634.832740110] [competition_keepout_mask_server]: Activating
+[INFO] [1793862634.833050442] [competition_keepout_mask_server]: Creating bond (competition_keepout_mask_server) to lifecycle manager.
+[INFO] [1793862655.834768282] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793862655.834932914] [competition_keepout_mask_server]: Running Nav2 LifecycleNode rcl preshutdown (competition_keepout_mask_server)
+[INFO] [1793862655.835027991] [competition_keepout_mask_server]: Deactivating
+[INFO] [1793862655.835066357] [competition_keepout_mask_server]: Destroying bond (competition_keepout_mask_server) to lifecycle manager.
+[INFO] [1793862655.845258289] [competition_keepout_mask_server]: Cleaning up
+[INFO] [1793862655.845318492] [competition_keepout_mask_server]: Destroying bond (competition_keepout_mask_server) to lifecycle manager.
+[INFO] [1793862655.847002430] [competition_keepout_mask_server]: Destroying

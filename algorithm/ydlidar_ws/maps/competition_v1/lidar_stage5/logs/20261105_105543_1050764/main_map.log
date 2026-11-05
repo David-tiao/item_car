@@ -1,0 +1,9 @@
+[INFO] [1793847344.174323473] [competition_s5_main_map]: 
+	competition_s5_main_map lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793847344.174392526] [competition_s5_main_map]: Creating
+[INFO] [1793847344.422149082] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793847344.422287857] [competition_s5_main_map]: Running Nav2 LifecycleNode rcl preshutdown (competition_s5_main_map)
+[INFO] [1793847344.422325786] [competition_s5_main_map]: Destroying bond (competition_s5_main_map) to lifecycle manager.
+[INFO] [1793847344.422856132] [competition_s5_main_map]: Destroying

@@ -1,0 +1,52 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Class: rviz_default_plugins/Grid
+      Enabled: true
+      Name: Grid
+      Cell Size: 0.5
+      Plane Cell Count: 20
+      Reference Frame: <Fixed Frame>
+    - Class: rviz_default_plugins/Map
+      Enabled: true
+      Name: Map
+      Topic:
+        Value: /map
+        Depth: 5
+        Durability Policy: Transient Local
+        Reliability Policy: Reliable
+        History Policy: Keep Last
+      Alpha: 1.0
+      Color Scheme: map
+      Use Timestamp: false
+    - Class: rviz_default_plugins/MarkerArray
+      Enabled: true
+      Name: Blue Start Zones
+      Queue Size: 10
+      Topic:
+        Value: /competition_start_zones
+        Depth: 10
+        Durability Policy: Volatile
+        Reliability Policy: Reliable
+        History Policy: Keep Last
+  Enabled: true
+  Global Options:
+    Fixed Frame: map
+    Background Color: 48; 48; 48
+    Frame Rate: 30
+  Name: root
+  Views:
+    Current:
+      Class: rviz_default_plugins/TopDownOrtho
+      Name: Current View
+      Scale: 180
+      X: 1.2
+      Y: 1.2
+      Angle: 0
+      Target Frame: <Fixed Frame>
+Window Geometry:
+  Width: 1200
+  Height: 900

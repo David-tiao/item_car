@@ -1,0 +1,26 @@
+[INFO] [1793862715.844327968] [competition_s5_mask]: 
+	competition_s5_mask lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862715.844406503] [competition_s5_mask]: Creating
+[INFO] [1793862730.616484706] [competition_s5_mask]: Configuring
+[INFO] [1793862730.616542818] [map_io]: Loading yaml file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.yaml
+[INFO] [1793862730.616701413] [map_io]: resolution: 0.01
+[INFO] [1793862730.616706393] [map_io]: origin[0]: -0.2
+[INFO] [1793862730.616709212] [map_io]: origin[1]: -0.2
+[INFO] [1793862730.616712230] [map_io]: origin[2]: 0
+[INFO] [1793862730.616715041] [map_io]: free_thresh: 0.196
+[INFO] [1793862730.616717947] [map_io]: occupied_thresh: 0.65
+[INFO] [1793862730.616721165] [map_io]: mode: trinary
+[INFO] [1793862730.616724541] [map_io]: negate: 0
+[INFO] [1793862730.616835606] [map_io]: Loading image_file: /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm
+[INFO] [1793862730.624136382] [map_io]: Read map /home/tao/Desktop/ydlidar_ws/maps/competition_v1/keepout_stage/competition_keepout_nav2.pgm: 280 X 280 map @ 0.01 m/cell
+[INFO] [1793862732.815734809] [competition_s5_mask]: Activating
+[INFO] [1793862732.815993692] [competition_s5_mask]: Creating bond (competition_s5_mask) to lifecycle manager.
+[INFO] [1793862810.023902459] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[INFO] [1793862810.024062353] [competition_s5_mask]: Running Nav2 LifecycleNode rcl preshutdown (competition_s5_mask)
+[INFO] [1793862810.024191579] [competition_s5_mask]: Deactivating
+[INFO] [1793862810.024237858] [competition_s5_mask]: Destroying bond (competition_s5_mask) to lifecycle manager.
+[INFO] [1793862810.034459162] [competition_s5_mask]: Cleaning up
+[INFO] [1793862810.034542509] [competition_s5_mask]: Destroying bond (competition_s5_mask) to lifecycle manager.
+[INFO] [1793862810.037971040] [competition_s5_mask]: Destroying

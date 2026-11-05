@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/tao/Desktop/ydlidar_ws/maps/competition_v1/costmap_stage4/test_pose_tf.py", line 21, in <module>
+    br.sendTransform(trans)
+  File "/opt/ros/humble/lib/python3.10/site-packages/tf2_ros/static_transform_broadcaster.py", line 70, in sendTransform
+    self.pub_tf.publish(TFMessage(transforms=transform))
+  File "/opt/ros/humble/local/lib/python3.10/dist-packages/rclpy/publisher.py", line 70, in publish
+    self.__publisher.publish(msg)
+rclpy._rclpy_pybind11.RCLError: Failed to publish: publisher's context is invalid, at ./src/rcl/publisher.c:389

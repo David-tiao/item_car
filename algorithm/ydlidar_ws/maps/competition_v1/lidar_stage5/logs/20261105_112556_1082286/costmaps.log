@@ -1,0 +1,52 @@
+[INFO] [1793849181.403330596] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793849181.403692309] [global_costmap.global_costmap]: Creating Costmap
+[INFO] [1793849181.408687894] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793849181.408901788] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1793849183.404206378] [global_costmap.global_costmap]: Configuring
+[INFO] [1793849183.406655896] [global_costmap.global_costmap]: Using plugin "static_layer"
+[INFO] [1793849183.409524644] [global_costmap.global_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1793849183.411052463] [global_costmap.global_costmap]: Initialized plugin "static_layer"
+[INFO] [1793849183.411081234] [global_costmap.global_costmap]: Using plugin "obstacle_layer"
+[INFO] [1793849183.411338781] [global_costmap.global_costmap]: Subscribed to Topics: scan
+[INFO] [1793849183.413406626] [global_costmap.global_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1793849183.413442372] [global_costmap.global_costmap]: Using costmap filter "keepout_filter"
+[INFO] [1793849183.415506878] [global_costmap.global_costmap]: Initialized costmap filter "keepout_filter"
+[INFO] [1793849183.415530217] [global_costmap.global_costmap]: Using costmap filter "keepout_inflation"
+[INFO] [1793849183.415937448] [global_costmap.global_costmap]: Initialized costmap filter "keepout_inflation"
+[ERROR] [1793849183.418747601] [global_costmap.global_costmap]: The configured inflation radius (0.100) is smaller than the computed inscribed radius (0.157) of your footprint, it is highly recommended to set inflation radius to be at least as big as the inscribed radius to avoid collisions
+[INFO] [1793849183.421371927] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 280 X 280 at 0.010000 m/pix
+[INFO] [1793849186.603172016] [global_costmap.global_costmap]: Activating
+[INFO] [1793849186.603214954] [global_costmap.global_costmap]: Checking transform
+[INFO] [1793849186.603287304] [global_costmap.global_costmap]: start
+[INFO] [1793849186.603640867] [global_costmap.global_costmap]: KeepoutFilter: Subscribing to "/costmap_filter_info" topic for filter info...
+[WARN] [1793849187.104492838] [global_costmap.global_costmap]: KeepoutFilter: Filter mask was not received
+[INFO] [1793849187.154683115] [global_costmap.global_costmap]: KeepoutFilter: Received filter info from /costmap_filter_info topic.
+[INFO] [1793849187.154775075] [global_costmap.global_costmap]: KeepoutFilter: Subscribing to "/keepout_filter_mask" topic for filter mask...
+[INFO] [1793849187.166535646] [global_costmap.global_costmap]: KeepoutFilter: Received filter mask from /keepout_filter_mask topic.
+[INFO] [1793849191.588256659] [local_costmap.local_costmap]: Configuring
+[INFO] [1793849191.589675177] [local_costmap.local_costmap]: Using plugin "static_layer"
+[INFO] [1793849191.589898896] [local_costmap.local_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1793849191.590081607] [local_costmap.local_costmap]: Initialized plugin "static_layer"
+[INFO] [1793849191.590094651] [local_costmap.local_costmap]: Using plugin "obstacle_layer"
+[INFO] [1793849191.590236423] [local_costmap.local_costmap]: Subscribed to Topics: scan
+[INFO] [1793849191.590925693] [local_costmap.local_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1793849191.590940950] [local_costmap.local_costmap]: Using costmap filter "keepout_filter"
+[INFO] [1793849191.591305938] [local_costmap.local_costmap]: Initialized costmap filter "keepout_filter"
+[INFO] [1793849191.591319131] [local_costmap.local_costmap]: Using costmap filter "keepout_inflation"
+[INFO] [1793849191.591549849] [local_costmap.local_costmap]: Initialized costmap filter "keepout_inflation"
+[ERROR] [1793849191.592874700] [local_costmap.local_costmap]: The configured inflation radius (0.100) is smaller than the computed inscribed radius (0.157) of your footprint, it is highly recommended to set inflation radius to be at least as big as the inscribed radius to avoid collisions
+[INFO] [1793849191.600593337] [local_costmap.local_costmap]: StaticLayer: Resizing static layer to 280 X 280 at 0.010000 m/pix
+[INFO] [1793849194.439554362] [local_costmap.local_costmap]: Activating
+[INFO] [1793849194.439599442] [local_costmap.local_costmap]: Checking transform
+[INFO] [1793849194.439648143] [local_costmap.local_costmap]: start
+[INFO] [1793849194.439934266] [local_costmap.local_costmap]: KeepoutFilter: Subscribing to "/costmap_filter_info" topic for filter info...
+[WARN] [1793849194.942753908] [local_costmap.local_costmap]: KeepoutFilter: Filter mask was not received
+[INFO] [1793849194.990704124] [local_costmap.local_costmap]: KeepoutFilter: Received filter info from /costmap_filter_info topic.
+[INFO] [1793849194.990781376] [local_costmap.local_costmap]: KeepoutFilter: Subscribing to "/keepout_filter_mask" topic for filter mask...
+[INFO] [1793849195.002363667] [local_costmap.local_costmap]: KeepoutFilter: Received filter mask from /keepout_filter_mask topic.

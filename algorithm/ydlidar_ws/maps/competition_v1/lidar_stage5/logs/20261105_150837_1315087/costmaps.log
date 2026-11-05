@@ -1,0 +1,58 @@
+[INFO] [1793862548.400148196] [global_costmap.global_costmap]: 
+	global_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862548.400564912] [global_costmap.global_costmap]: Creating Costmap
+[INFO] [1793862548.404994723] [local_costmap.local_costmap]: 
+	local_costmap lifecycle node launched. 
+	Waiting on external lifecycle transitions to activate
+	See https://design.ros2.org/articles/node_lifecycle.html for more information.
+[INFO] [1793862548.405336337] [local_costmap.local_costmap]: Creating Costmap
+[INFO] [1793862551.131307099] [global_costmap.global_costmap]: Configuring
+[INFO] [1793862551.138423233] [global_costmap.global_costmap]: Using plugin "static_layer"
+[INFO] [1793862551.140221488] [global_costmap.global_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1793862551.140885920] [global_costmap.global_costmap]: Initialized plugin "static_layer"
+[INFO] [1793862551.140903631] [global_costmap.global_costmap]: Using plugin "obstacle_layer"
+[INFO] [1793862551.141186876] [global_costmap.global_costmap]: Subscribed to Topics: scan
+[INFO] [1793862551.142505817] [global_costmap.global_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1793862551.142522404] [global_costmap.global_costmap]: Using costmap filter "keepout_filter"
+[INFO] [1793862551.143782415] [global_costmap.global_costmap]: Initialized costmap filter "keepout_filter"
+[INFO] [1793862551.143797984] [global_costmap.global_costmap]: Using costmap filter "keepout_inflation"
+[INFO] [1793862551.144060889] [global_costmap.global_costmap]: Initialized costmap filter "keepout_inflation"
+[ERROR] [1793862551.146464974] [global_costmap.global_costmap]: The configured inflation radius (0.100) is smaller than the computed inscribed radius (0.157) of your footprint, it is highly recommended to set inflation radius to be at least as big as the inscribed radius to avoid collisions
+[INFO] [1793862551.151300228] [global_costmap.global_costmap]: StaticLayer: Resizing costmap to 280 X 280 at 0.010000 m/pix
+[INFO] [1793862554.002229077] [global_costmap.global_costmap]: Activating
+[INFO] [1793862554.002333386] [global_costmap.global_costmap]: Checking transform
+[INFO] [1793862554.002476459] [global_costmap.global_costmap]: start
+[INFO] [1793862554.003288506] [global_costmap.global_costmap]: KeepoutFilter: Subscribing to "/costmap_filter_info" topic for filter info...
+[WARN] [1793862554.504017348] [global_costmap.global_costmap]: KeepoutFilter: Filter mask was not received
+[INFO] [1793862554.554695391] [global_costmap.global_costmap]: KeepoutFilter: Received filter info from /costmap_filter_info topic.
+[INFO] [1793862554.554783764] [global_costmap.global_costmap]: KeepoutFilter: Subscribing to "/keepout_filter_mask" topic for filter mask...
+[INFO] [1793862554.566427159] [global_costmap.global_costmap]: KeepoutFilter: Received filter mask from /keepout_filter_mask topic.
+[INFO] [1793862559.183729132] [local_costmap.local_costmap]: Configuring
+[INFO] [1793862559.187489696] [local_costmap.local_costmap]: Using plugin "static_layer"
+[INFO] [1793862559.188022162] [local_costmap.local_costmap]: Subscribing to the map topic (/map) with transient local durability
+[INFO] [1793862559.188509867] [local_costmap.local_costmap]: Initialized plugin "static_layer"
+[INFO] [1793862559.188540903] [local_costmap.local_costmap]: Using plugin "obstacle_layer"
+[INFO] [1793862559.188900939] [local_costmap.local_costmap]: Subscribed to Topics: scan
+[INFO] [1793862559.190901710] [local_costmap.local_costmap]: Initialized plugin "obstacle_layer"
+[INFO] [1793862559.190953894] [local_costmap.local_costmap]: Using costmap filter "keepout_filter"
+[INFO] [1793862559.192430191] [local_costmap.local_costmap]: Initialized costmap filter "keepout_filter"
+[INFO] [1793862559.192497529] [local_costmap.local_costmap]: Using costmap filter "keepout_inflation"
+[INFO] [1793862559.193271516] [local_costmap.local_costmap]: Initialized costmap filter "keepout_inflation"
+[ERROR] [1793862559.196698707] [local_costmap.local_costmap]: The configured inflation radius (0.100) is smaller than the computed inscribed radius (0.157) of your footprint, it is highly recommended to set inflation radius to be at least as big as the inscribed radius to avoid collisions
+[INFO] [1793862559.199881423] [local_costmap.local_costmap]: StaticLayer: Resizing static layer to 280 X 280 at 0.010000 m/pix
+[INFO] [1793862562.074341082] [local_costmap.local_costmap]: Activating
+[INFO] [1793862562.074405843] [local_costmap.local_costmap]: Checking transform
+[INFO] [1793862562.074512036] [local_costmap.local_costmap]: start
+[INFO] [1793862562.075137502] [local_costmap.local_costmap]: KeepoutFilter: Subscribing to "/costmap_filter_info" topic for filter info...
+[WARN] [1793862562.576366241] [local_costmap.local_costmap]: KeepoutFilter: Filter mask was not received
+[INFO] [1793862562.625987197] [local_costmap.local_costmap]: KeepoutFilter: Received filter info from /costmap_filter_info topic.
+[INFO] [1793862562.626021943] [local_costmap.local_costmap]: KeepoutFilter: Subscribing to "/keepout_filter_mask" topic for filter mask...
+[INFO] [1793862562.637025793] [local_costmap.local_costmap]: KeepoutFilter: Received filter mask from /keepout_filter_mask topic.
+[INFO] [1793862594.973850980] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+Warning: class_loader.ClassLoader: SEVERE WARNING!!! Attempting to unload library while objects created by this loader exist in the heap! You should delete your objects before attempting to unload the library or destroying the ClassLoader. The library will NOT be unloaded.
+         at line 127 in ./src/class_loader.cpp
+Warning: class_loader.ClassLoader: SEVERE WARNING!!! Attempting to unload library while objects created by this loader exist in the heap! You should delete your objects before attempting to unload the library or destroying the ClassLoader. The library will NOT be unloaded.
+         at line 127 in ./src/class_loader.cpp
+terminate called without an active exception
