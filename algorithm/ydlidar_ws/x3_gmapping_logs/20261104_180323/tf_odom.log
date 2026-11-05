@@ -1,5 +1,0 @@
-[INFO] [1793786603.799370186] [static_transform_publisher_hCub0sTEgap6By0M]: Spinning until stopped - publishing transform
-translation: ('0.000000', '0.000000', '0.000000')
-rotation: ('0.000000', '0.000000', '0.000000', '1.000000')
-from 'odom' to 'base_link'
-[INFO] [1793786655.328964904] [rclcpp]: signal_handler(SIGINT/SIGTERM)

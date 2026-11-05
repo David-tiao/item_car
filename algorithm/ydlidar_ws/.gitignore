@@ -21,3 +21,7 @@ venv/
 .env.*
 *.pem
 *.key
+
+# YDLIDAR runtime logs
+x3_gmapping_logs/
+x3_logs/
